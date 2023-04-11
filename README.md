@@ -7,7 +7,7 @@
 <br>
 <div align="center">
 
-[Correo Institucional](diego.barquero.sanchez@est.una.ac.cr)
+[Blogs sobre Ciencia de Datos](https://medium.com/@barquerosanchezdiego)
 </div>
 </p>    
 <br>
