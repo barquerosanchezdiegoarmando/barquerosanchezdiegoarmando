@@ -15,6 +15,7 @@
 
 <h2 style="color: #44AEFB">Actualmente:</h2>
 Estoy trabajando en una aplicación web creada con Python y la librería Streamlit(https://streamlit.io) para la presentación de resultados del proyecto-repositorio eda_real_state.
+
 Estoy trabajando en un repositorio pseude-academico como material complementario para las materias de Econometría I, II, III. UNA-Econometrics-py
 
 
