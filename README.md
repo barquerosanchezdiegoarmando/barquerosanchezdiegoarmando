@@ -1,73 +1,34 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Diego Armando Barquero Sánchez
+======================================================================================================================================================
 
-<h1 style="color: #44AEFB;"> Diego Armando Barquero Sánchez </h1>
+Hi! I´m Diego Armando Barquero Sánchez, I am an Econometrician - Experimental & Computational Economist - Data Scientist
+------------------------------------------------------------------------------------------------------------------------
 
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-   Soy estudiante de Economía de la Universidad Nacional de Costa Rica, asi como estudiante de posgrado de una especialidad en Data Science and Business Analytics por la Universidad de Texas at Austin, a traves de este medio podré documentar mi avance técnico así como desarrollar un pequeño proyecto donde facilite la información a estudiantes con un interés real sobre los datos y su posible impacto en la desiciones individuales, empresariales, estatales y mundiales.
-<br>
-<br>
-<div align="center">
+* 🌍  I'm based in Heredia, Costa Rica
+* 🖥️  See my portfolio at [absanchez.com](http://https://barquerosanchezdiegoarmando.github.io/)
+* ✉️  You can contact me at [506-87378612](mailto:506-87378612)
+* 🚀  I'm currently working on [Research in Ecological Economics - The waterfoot print of the Universidad Nacional de Costa Rica.](http://https://www.researchgate.net/profile/Diego-Barquero-Sanchez)
+* 🧠  I'm learning Julia-Goolang
+* 🤝  I'm open to collaborating on any kind of research in economics-statistics-data science
 
-[Blogs sobre Ciencia de Datos](https://medium.com/@barquerosanchezdiego)
-</div>
-</p>    
-<br>
-<!-- Languages and Tools -->
-
-<h2 style="color: #44AEFB">Actualmente:</h2>
-Estoy trabajando en una aplicación web creada con Python y la librería Streamlit(https://streamlit.io) para la presentación de resultados del proyecto-repositorio eda_real_state.
-
-Estoy trabajando en un repositorio pseude-academico como material complementario para las materias de Econometría I, II, III. UNA-Econometrics-py
-
-
-
-<h2 style="color: #44AEFB"> Lenguajes y herramientas </h2>
+<h2 style="color: #44AEFB"> Languages and Tools </h2>
 <div align="center" style="display:block;">
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div>
-<br>   
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
-<div align="center">
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  </a>
-  <a href="https://www.rstudio.com/tags/rstudio-ide/" target="_blank" rel="noreferrer">
-      <img  alt="R" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="GoogleCloud" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </a>
-  <a href="http://jupyter.org/" target="_blank" rel="noreferrer">
-      <img  alt="Jupyter" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
-  </a>
-  <a href="https://www.latex-project.org/help/documentation/" target="_blank" rel="noreferrer">
-      <img  alt="Overleaf" height="50px" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
-  </a>
-  
-           
-          
-</div>
-<br>
-<br>
+<p align="center">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+</p>
+
+
+<h2 style="color: #44AEFB"> Socials </h2>
+
+<p align="center"> <a href="https://www.github.com/barquerosanchezdiegoarmando" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/diego-armando-barquero-s%C3%A1nchez-/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/https://medium.com/@barquerosanchezdiego" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 
 
 <!-- Statistics -->
 
-<h2 style="color: #44AEFB">Estadísticas</h2>
+<h2 style="color: #44AEFB">Statistics</h2>
 
 
 <!-- Begin Stats Cards -->
@@ -85,49 +46,11 @@ Estoy trabajando en un repositorio pseude-academico como material complementario
     
 <!-- compact programming languages layout -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barquerosanchezdiegoarmando&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div>
-<!--  End Stats Cards -->
----
-<!-- Begin Footer -->
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<div class="footer" align="center" style="margin:15px;">
-    <a href="https://github.com/barquerosanchezdiegoarmando" target="_blank">
-        <img  style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="40px"/>
-    </a>
-    <a href="https://www.linkedin.com/in/diego-armando-barquero-sánchez-/" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-           alt="linkedin" width="40px"/>
-    </a>
-    <a href="https://easyeconometrics.onrender.com/" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"
-           alt="webpage" width="40px"/>
-    </a>
-</div>
-<!-- End Footer -->
+</div>}
 
-<!-- 
-🔗 Links 🔗
-- My Github Portfolio Page:
-https://github.com/ProgrammingGym
-- My Github README Code:
-https://raw.githubusercontent.com/Pro...
-- Youtube Cards:
-https://github.com/DenverCoder1/githu...
-- Youtube Buttons / Badges :
-https://github.com/DenverCoder1/custo...
-- Github & Languages Stats Cards:
-https://github.com/anuraghazra/github...
-- Streak Stats Card:
-https://github.com/denvercoder1/githu...
-- README Web App Generator 1:
-https://rahuldkjain.github.io/gh-prof...
-- README Web App Generator 2:
-https://arturssmirnovs.github.io/gith...
-- SVG Icons Resource1:
-https://devicon.dev/
-- SVG Icons Resource2:
-https://cdn.jsdelivr.net/npm/simple-i...
-- SVG Icons Resource3:
-https://www.svgrepo.com/
--->
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ObQMvipXtD7F0IRo
+" target="_blank"><img src="http://img.youtube.com/vi/ObQMvipXtD7F0IRo/0.jpg" 
+alt="KKK" width="240" height="180" border="10"/>
+</a>
