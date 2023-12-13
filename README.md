@@ -46,11 +46,4 @@ I am an Econometrician - Experimental & Computational Economist - Data Scientist
     
 <!-- compact programming languages layout -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barquerosanchezdiegoarmando&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div>}
-
-
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ObQMvipXtD7F0IRo
-" target="_blank"><img src="http://img.youtube.com/vi/ObQMvipXtD7F0IRo/0.jpg" 
-alt="KKK" width="240" height="180" border="10"/>
-</a>
+</div>
