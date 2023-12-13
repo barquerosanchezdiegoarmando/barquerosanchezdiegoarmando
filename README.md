@@ -5,7 +5,7 @@ I am an Econometrician - Experimental & Computational Economist - Data Scientist
 ------------------------------------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in Heredia, Costa Rica
-* 🖥️  See my portfolio at [absanchez.com](http://https://barquerosanchezdiegoarmando.github.io/)
+* 🖥️  See my portfolio at [absanchez.com](http://barquerosanchezdiegoarmando.github.io/)
 * ✉️  You can contact me at [506-87378612](mailto:506-87378612)
 * 🚀  I'm currently working on [Research in Ecological Economics - The waterfoot print of the Universidad Nacional de Costa Rica.](http://https://www.researchgate.net/profile/Diego-Barquero-Sanchez)
 * 🧠  I'm learning Julia-Goolang
