@@ -5,7 +5,7 @@ I am an Econometrician - Experimental & Computational Economist - Data Scientist
 ------------------------------------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in Heredia, Costa Rica
-* 👨🏻‍💼  Job Industry as a Data Scientist Jr
+* 👨🏻‍💼  Job Industry as a Financial Risk Junior Staff 
 * 🖥️  See my portfolio at [absanchez.com](http://barquerosanchezdiegoarmando.github.io/)
 * ✉️  You can contact me at 506-87378612
 * 🚀  I'm currently working on [Research in Ecological Economics - The waterfoot print of the Universidad Nacional de Costa Rica.](http://www.researchgate.net/profile/Diego-Barquero-Sanchez)
